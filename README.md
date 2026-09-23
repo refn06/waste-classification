@@ -1,4 +1,4 @@
-# Klasifikasi Sampah — KOMPRES 16 Informatika (AI Innovation)
+# Klasifikasi Sampah — (AI Innovation)
 
 Model klasifikasi gambar sampah organik vs anorganik, dikembangkan untuk
 kompetisi KOMPRES 16 Informatika — Universitas Gunadarma, kategori AI Innovation.
